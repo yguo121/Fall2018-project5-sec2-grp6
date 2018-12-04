@@ -2,15 +2,17 @@
 
 Term: Fall 2018
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team 6
++ Project title: Image Super Resolution Mobile App
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	+ Zhongce Ji (zj2225)
+	+ Wanyi Zheng (wz2409)
+	+ Yaoqi Guo (yg2542)
+	+ Yang Yang (yy2819)
++ Project summary: 
+	+ Task 1: Model Improvement
+	+ Task 2: Train the Model, then frozen the model to a pb.file, submit to (http://ai-benchmark.com/challenge.html). We use their validation code to measure our performance)
+	+ Task 3: Make the frozen model into a real mobile app using Tensorflow Lite.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
