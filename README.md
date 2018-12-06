@@ -12,7 +12,6 @@ Term: Fall 2018
 + Project summary: 
 	+ Task 1: Model Improvement
 	+ Task 2: Train the Model, then frozen the model to a pb.file, submit to (http://ai-benchmark.com/challenge.html). We use their validation code to measure our performance)
-	+ Task 3: Make the frozen model into a real mobile app using Tensorflow Lite.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
