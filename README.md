@@ -1,4 +1,4 @@
-# ADS Project 5: 
+# ADS Project 5: ESPCN for Improving Efficiency of Image Super-Resolution
 
 Term: Fall 2018
 
